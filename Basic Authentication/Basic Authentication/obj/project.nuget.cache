@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vOeF+Aese6g=",
+  "dgSpecHash": "a9Auh4ICwKg=",
   "success": true,
-  "projectFilePath": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
+  "projectFilePath": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vudu1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\vudu1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

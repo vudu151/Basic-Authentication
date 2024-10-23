@@ -21,7 +21,7 @@ public class BasicAuthHandler
             await context.Response.WriteAsync("Unauthorized");
             return;
         }
-        var header = context.Response.Headers["Authorization"].ToString();
+        var header = context.Request.Headers["Authorization"].ToString();
         var encodedCreds = header.Substring(6);
         var creds = Encoding.UTF8.GetString(Convert.FromBase64String(encodedCreds));
         string[] uidpwd = creds.Split(':');

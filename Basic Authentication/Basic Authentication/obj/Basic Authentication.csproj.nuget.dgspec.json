@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj": {}
+    "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj": {}
   },
   "projects": {
-    "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj": {
+    "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
+        "projectUniqueName": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
         "projectName": "Basic Authentication",
-        "projectPath": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
+        "projectPath": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
         "packagesPath": "C:\\Users\\vudu1\\.nuget\\packages\\",
-        "outputPath": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\obj\\",
+        "outputPath": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vudu1\\AppData\\Roaming\\NuGet\\NuGet.Config",

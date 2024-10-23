@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\",
+  "WorkspaceRootPath": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic authentication\\basic authentication\\basic authentication\\middleware\\basicauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic-authentication\\basic authentication\\basic authentication\\middleware\\basicauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|solutionrelative:basic authentication\\middleware\\basicauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic authentication\\basic authentication\\basic authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic-authentication\\basic authentication\\basic authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|solutionrelative:basic authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic authentication\\basic authentication\\basic authentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic-authentication\\basic authentication\\basic authentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|solutionrelative:basic authentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic authentication\\basic authentication\\basic authentication\\basic authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic-authentication\\basic authentication\\basic authentication\\basic authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|solutionrelative:basic authentication\\basic authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic authentication\\basic authentication\\basic authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|d:\\onenet\\basic-authentication\\basic authentication\\basic authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3403BBA8-C3C6-402A-892B-69EF14954972}|Basic Authentication\\Basic Authentication.csproj|solutionrelative:basic authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,34 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Basic Authentication\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Basic Authentication\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:10:54.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T10:10:54.07Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BasicAuthHandler.cs",
-              "DocumentMoniker": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Middleware\\BasicAuthHandler.cs",
+              "DocumentMoniker": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Middleware\\BasicAuthHandler.cs",
               "RelativeDocumentMoniker": "Basic Authentication\\Middleware\\BasicAuthHandler.cs",
-              "ToolTip": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Middleware\\BasicAuthHandler.cs",
+              "ToolTip": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Middleware\\BasicAuthHandler.cs",
               "RelativeToolTip": "Basic Authentication\\Middleware\\BasicAuthHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:58:45.444Z",
               "EditorCaption": ""
@@ -66,40 +69,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Program.cs",
+              "DocumentMoniker": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Program.cs",
               "RelativeDocumentMoniker": "Basic Authentication\\Program.cs",
-              "ToolTip": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Program.cs",
+              "ToolTip": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Program.cs",
               "RelativeToolTip": "Basic Authentication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:08:26.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:08:26.639Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\appsettings.json",
+              "DocumentMoniker": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\appsettings.json",
               "RelativeDocumentMoniker": "Basic Authentication\\appsettings.json",
-              "ToolTip": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\appsettings.json",
+              "ToolTip": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\appsettings.json",
               "RelativeToolTip": "Basic Authentication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T09:07:47.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:07:47.629Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Basic Authentication",
-              "DocumentMoniker": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
+              "Title": "Basic Authentication.csproj",
+              "DocumentMoniker": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
               "RelativeDocumentMoniker": "Basic Authentication\\Basic Authentication.csproj",
-              "ToolTip": "D:\\ONENET\\Basic Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
+              "ToolTip": "D:\\ONENET\\Basic-Authentication\\Basic Authentication\\Basic Authentication\\Basic Authentication.csproj",
               "RelativeToolTip": "Basic Authentication\\Basic Authentication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T09:05:54.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T09:05:54.942Z"
             }
           ]
         }
